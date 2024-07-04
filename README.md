@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, seja bem-vindo(a)
+
+<img src="documentos/html5-logo" alt="Logo HTML5">
+<img src="documentos/css-logo" alt="Logo CSS">
+<img src="documentos/javascript-logo" alt="Logo Java Script">
 
 <!--
 **yurimatsuzaki/yurimatsuzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
