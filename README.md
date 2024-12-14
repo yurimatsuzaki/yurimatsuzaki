@@ -5,7 +5,7 @@
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-node" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030179.png?f=webp&w=256">
-  <img align="center" alt="Yuri-mysql" height="30" width="40" src="[https://pngimg.com/d/mysql_PNG23.png](https://cdn.iconscout.com/icon/free/png-256/free-mysql-21-1174941.png)">
+  <img align="center" alt="Yuri-mysql" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-21-1174941.png">
 </div>
   
   ##
